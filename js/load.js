@@ -7,11 +7,6 @@ $(function () {
 })
 
 $(function(){
-	$("#social").load("menus/social.html");
-	$("#hardware").load("menus/hardware.html");
-	$("#tutorials").load("menus/tutorials.html");
-	$("#libraries").load("menus/libraries.html");
+	$("#common").load("menus/common.html");
+	$("#docs").load("menus/docs.html");
 });
-
-document.registerElement('question');
-document.registerElement('answer');
