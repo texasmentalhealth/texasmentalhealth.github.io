@@ -9,4 +9,5 @@ $(function () {
 $(function(){
 	$("#common").load("menus/common.html");
 	$("#docs").load("menus/docs.html");
+	$("#social").load("menus/social.html");
 });
