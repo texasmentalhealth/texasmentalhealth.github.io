@@ -41,7 +41,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #993F6C;
+  color: #000;
 }
 
 hr {
@@ -61,7 +61,7 @@ img {
 }
 
 question {
-  color: #993F6C;
+  color: #000;
   font-weight: bold;
   font-size: 25px;
 }
@@ -123,7 +123,7 @@ answer {
 }
 
 .dropdown-toggle:hover {
-  color: #993F6C;
+  color: #000;
 }
 
 .dropdown-toggle:focus {
@@ -137,7 +137,7 @@ answer {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #993F6C;
+  color: #000;
 }
 
 @media (min-width: 750px) {
