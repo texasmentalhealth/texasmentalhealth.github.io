@@ -18,7 +18,6 @@ a:hover {
   text-shadow: none; /* Prevent inheritence from `body` */
   background-color: #3071a5;
   padding: 10px;
-  border-color: #285e8e;
   font-size: 18px;
 }
 
@@ -32,7 +31,7 @@ body {
   background-color: #d6ebf2;
 }
 body {
-  color: #000;
+  color: #000
   /*text-align: center;*/
   /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
 }
@@ -46,7 +45,6 @@ h5 {
 }
 
 hr {
-  border-color: #993F6C;
 }
 
 th {
@@ -115,7 +113,6 @@ answer {
   font-size: 16px;
   font-weight: bold;
   color: #000080;
-  border-bottom: 2px solid transparent;
   text-decoration: none;
 }
 
@@ -125,7 +122,6 @@ answer {
   font-size: 16px;
   font-weight: bold;
   color: #000080;
-  border-bottom: 2px solid transparent;
 }
 
 .dropdown-toggle:hover {
@@ -139,13 +135,11 @@ answer {
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
   background-color: transparent;
-  border-bottom-color: #993F6C;
 }
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
   color: #993F6C;
-  border-bottom-color: #993F6C;
 }
 
 @media (min-width: 750px) {
