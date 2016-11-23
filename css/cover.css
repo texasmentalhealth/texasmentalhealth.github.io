@@ -91,6 +91,10 @@ img {
 	width: 325px;
 }
 
+.tab-pane {
+  width: 780px;
+}
+
 question {
   color: #000;
   font-weight: bold;
