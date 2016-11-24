@@ -40,9 +40,12 @@ h1,
 h2,
 h3,
 h4,
-h5,
-hr {
+h5 {
   color: #000;
+}
+
+hr {
+  border-color: #000;
 }
 
 th {
