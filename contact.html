@@ -40,26 +40,28 @@
 	          		<center>
 					<h3><b>Send Us an Email!</b></h3>
 
-					<form action="email.pl" method="POST">
-					<div class="input-group">
-						<span class="input-group-addon" id="basic-addon1">Email</span>
-						<input type="email" class="form-control" aria-describedby="basic-addon1">
-					</div>
-					<br>
-					<div class="input-group">
-						<span class="input-group-addon" id="basic-addon1">Topic</span>
-						<input type="subject" class="form-control" aria-describedby="basic-addon1">
-					</div>
-					<br>
-
-					<div class="input-group">
-						<span class="input-group-addon" id="basic-addon1">Message</span>
-						<textarea type="message" class="form-control" aria-describedby="basic-addon1"></textarea>
-					</div>
-					<br>
-
-					<button type="button" type="submit" value="submit">Submit</button>
-					</form>
+					<form action="request.cgi" method="post">
+              
+                    <p class="Body">
+                    <b>Institution or Company (or "Personal" if for home use):</b> 
+                    <input type=text size=30 name=Institution>
+                    </p>
+              
+                    <p class="Body">
+                    <b>E-mail contact:</b>
+                    <input type=text size=30 name=Email>
+                    </p>
+              
+                    <p class="Body">
+                    <b>Project description:</b><br>
+                    <textarea name=Project rows=10 cols=72></textarea>
+                    </p>
+              
+                    <p class="Body">
+                    <input type=submit value=submit>
+                    </p>
+              
+                  </form>
 					</center>
 				</form>
 	          </div>
