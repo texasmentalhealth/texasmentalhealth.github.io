@@ -51,6 +51,10 @@ th {
   text-align: center;
 }
 
+li {
+  max-width: 800px;
+}
+
 #exTab1 .tab-content {
   color : white;
   background-color: #428bca;
