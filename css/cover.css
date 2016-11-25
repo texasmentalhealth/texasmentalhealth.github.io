@@ -56,10 +56,6 @@ div {
   max-width: 750px;
 }
 
-p {
-  text-align: left;
-}
-
 li {
   text-align: left;
 }
@@ -123,6 +119,11 @@ img {
 
 .tab-pane h3 {
   text-align: left;
+}
+
+.tab-pane p {
+  text-align: left;
+  width: 90%;
 }
 
 
