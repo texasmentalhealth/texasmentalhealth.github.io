@@ -190,7 +190,7 @@ img {
 .masthead-nav > li > a:focus {
   background-color: transparent;
 }
-.masthead-nav > .active > a,
+/*.masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
   background-color: #3071a5;
@@ -198,7 +198,7 @@ img {
   padding: 7px;
   color: #FFF;
 }
-
+*/
 .masthead-nav > .active {
   background-color: #C0D9AF;
   border-radius: 8px;
