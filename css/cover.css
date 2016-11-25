@@ -116,14 +116,8 @@ img {
   width: 780px;
 }
 
-question {
-  color: #000;
-  font-weight: bold;
-  font-size: 25px;
-}
-
-answer {
-  font-size: 15px;
+.tab-pane hr {
+  width: 90%;
 }
 
 
