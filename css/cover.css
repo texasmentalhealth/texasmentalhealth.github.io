@@ -199,10 +199,14 @@ img {
   color: #FFF;
 }
 
-.active > a{
+.active {
   background-color: #3071a5;
   border-radius: 8px;
   padding: 5px;
+  color: #FFF;
+}
+
+a {
   color: #FFF;
 }
 
