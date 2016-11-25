@@ -195,7 +195,7 @@ img {
 .masthead-nav > .active > a:focus {
   background-color: #3071a5;
   border-radius: 8px;
-  padding: 3px;
+  padding: 5px;
   color: #FFF;
 }
 
