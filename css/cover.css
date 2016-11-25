@@ -56,38 +56,40 @@ div {
   max-width: 750px;
 }
 
-#exTab1 .tab-content {
-  color : white;
-  background-color: #C0D9AF;
-  padding : 5px 15px;
-}
-
-#exTab2 h3 {
-  color : white;
-  background-color: #C0D9AF;
-  padding : 5px 15px;
-}
-
-/* remove border radius for the tab */
-
 #exTab1 .nav-pills > li > a {
   border-radius: 8px;
-  background-color: #C0D9AF;
 }
 
 #exTab2 .nav-pills > li > a {
   border-radius: 8px;
-  background-color: #C0D9AF;
 }
-
-/* change border radius for the tab , apply corners on top*/
 
 #exTab3 .nav-pills > li > a {
   border-radius: 8px;
+}
+
+#exTab1 .tab-content {
+  color : black;
   background-color: #C0D9AF;
+  padding : 5px 15px;
+  border-radius: 8px;
+}
+
+#exTab2 .tab-content {
+  color : black;
+  background-color: #C0D9AF;
+  padding : 5px 15px;
+  border-radius: 8px;
 }
 
 #exTab3 .tab-content {
+  color : white;
+  background-color: #C0D9AF;
+  padding : 5px 15px;
+  border-radius: 8px;
+}
+
+#exTab2 h3 {
   color : black;
   background-color: #C0D9AF;
   padding : 5px 15px;
