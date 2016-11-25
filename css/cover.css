@@ -121,6 +121,10 @@ img {
   width: 80%;
 }
 
+.tab-pane h3 {
+  text-align: left;
+}
+
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
