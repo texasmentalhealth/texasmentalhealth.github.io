@@ -60,6 +60,10 @@ p {
   text-align: left;
 }
 
+li {
+  text-align: left;
+}
+
 #exTab1 .nav-pills > li > a {
   border-radius: 8px;
 }
