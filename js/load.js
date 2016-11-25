@@ -17,5 +17,4 @@ $(function(){
 	$("#docs_2").load("../menus/docs.html");
 	$("#social_2").load("../menus/social.html");
 	$("#resources_2").load("../menus/resources.html");
-
 });
