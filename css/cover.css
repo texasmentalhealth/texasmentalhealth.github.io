@@ -107,6 +107,7 @@ img {
 
 .top-image {
   width: 50px;
+  display: inline;
   border-radius: 8px;
 }
 
