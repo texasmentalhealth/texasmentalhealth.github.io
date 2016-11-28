@@ -105,6 +105,11 @@ img {
   border-radius: 8px;
 }
 
+.top-img {
+  width: 50px;
+  border-radius: 8px;
+}
+
 .thumbnail {
 	width: 325px;
 }
