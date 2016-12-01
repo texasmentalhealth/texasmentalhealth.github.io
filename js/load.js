@@ -49,21 +49,21 @@ $(function(){
 	$("#ptsd-symptoms").load("/illnesses/symptoms/ptsd.html");
 	$("#schizophrenia-symptoms").load("/illnesses/symptoms/schizophrenia.html");
 
-	//the treatment pages for the common illnesses
-	$("#add-treatment").load("/illnesses/treatment/add.html");
-	$("#adhd-treatment").load("/illnesses/treatment/adhd.html");
-	$("#anorexia-nervosa-treatment").load("/illnesses/treatment/anorexia_nervosa.html");
-	$("#anxiety-disorders-treatment").load("/illnesses/treatment/anxiety_disorders.html");
-	$("#autsim-treatment").load("/illnesses/treatment/autsim.html");
-	$("#avoidand-personality-treatment").load("/illnesses/treatment/avoidand_personality.html");
-	$("#bipolar-treatment").load("/illnesses/treatment/bipolar.html");
-	$("#borderline-personality-treatment").load("/illnesses/treatment/borderline_personality.html");
-	$("#bulimia-treatment").load("/illnesses/treatment/bulimia.html");
-	$("#dementia-treatment").load("/illnesses/treatment/dementia.html");
-	$("#depressive-identity-treatment").load("/illnesses/treatment/depressive_identity.html");
-	$("#dissociative-identity-treatment").load("/illnesses/treatment/dissociative_identity.html");
-	$("#misophonia-treatment").load("/illnesses/treatment/misophonia.html");
-	$("#ocd-treatment").load("/illnesses/treatment/ocd.html");
-	$("#ptsd-treatment").load("/illnesses/treatment/ptsd.html");
-	$("#schizophrenia-treatment").load("/illnesses/treatment/schizophrenia.html");
+	//the treatments pages for the common illnesses
+	$("#add-treatments").load("/illnesses/treatments/add.html");
+	$("#adhd-treatments").load("/illnesses/treatments/adhd.html");
+	$("#anorexia-nervosa-treatments").load("/illnesses/treatments/anorexia_nervosa.html");
+	$("#anxiety-disorders-treatments").load("/illnesses/treatments/anxiety_disorders.html");
+	$("#autsim-treatments").load("/illnesses/treatments/autsim.html");
+	$("#avoidand-personality-treatments").load("/illnesses/treatments/avoidand_personality.html");
+	$("#bipolar-treatments").load("/illnesses/treatments/bipolar.html");
+	$("#borderline-personality-treatments").load("/illnesses/treatments/borderline_personality.html");
+	$("#bulimia-treatments").load("/illnesses/treatments/bulimia.html");
+	$("#dementia-treatments").load("/illnesses/treatments/dementia.html");
+	$("#depressive-identity-treatments").load("/illnesses/treatments/depressive_identity.html");
+	$("#dissociative-identity-treatments").load("/illnesses/treatments/dissociative_identity.html");
+	$("#misophonia-treatments").load("/illnesses/treatments/misophonia.html");
+	$("#ocd-treatments").load("/illnesses/treatments/ocd.html");
+	$("#ptsd-treatments").load("/illnesses/treatments/ptsd.html");
+	$("#schizophrenia-treatments").load("/illnesses/treatments/schizophrenia.html");
 });
