@@ -67,6 +67,9 @@ $(function(){
 	$("#ptsd-treatments").load("/illnesses/treatments/ptsd.html");
 	$("#schizophrenia-treatments").load("/illnesses/treatments/schizophrenia.html");
 
+
+	//***************************************************************************************************
+	//NOT IN EFFECT AT THIS MOMENT
 	//the therapies pages for the common illnesses
 	$("#add-therapies").load("/illnesses/treatments/therapies/add.html");
 	$("#adhd-therapies").load("/illnesses/treatments/therapies/adhd.html");
