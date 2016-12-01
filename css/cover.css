@@ -60,6 +60,13 @@ li {
   text-align: left;
 }
 
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  background-color: #C0D9AF;
+  color: #000080;
+}
+
 #exTab1 .nav-pills > li > a {
   border-radius: 8px;
 }
