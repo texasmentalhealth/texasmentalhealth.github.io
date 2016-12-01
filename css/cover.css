@@ -90,14 +90,14 @@ li {
   color : black;
   background-color: #C0D9AF;
   padding : 5px 15px;
-  border-radius: 0 8px 8px 8px;
+  border-radius: 8px;
 }
 
 #exTab3 .tab-content {
   color : white;
   background-color: #C0D9AF;
   padding : 5px 15px;
-  border-radius: 0 8px 8px 8px;
+  border-radius: 8px;
 }
 
 #exTab2 h3 {
