@@ -24,7 +24,7 @@ $(function(){
 	$("#borderline-personality-about").load("/illnesses/about/borderline_personality.html");
 	$("#bulimia-about").load("/illnesses/about/bulimia.html");
 	$("#dementia-about").load("/illnesses/about/dementia.html");
-	$("#depressive-disorder-about").load("/illnesses/about/depressive_identity.html");
+	$("#depressive-disorder-about").load("/illnesses/about/depressive_disorder.html");
 	$("#dissociative-identity-about").load("/illnesses/about/dissociative_identity.html");
 	$("#misophonia-about").load("/illnesses/about/misophonia.html");
 	$("#ocd-about").load("/illnesses/about/ocd.html");
@@ -42,7 +42,7 @@ $(function(){
 	$("#borderline-personality-symptoms").load("/illnesses/symptoms/borderline_personality.html");
 	$("#bulimia-symptoms").load("/illnesses/symptoms/bulimia.html");
 	$("#dementia-symptoms").load("/illnesses/symptoms/dementia.html");
-	$("#depressive-disorder-symptoms").load("/illnesses/symptoms/depressive_identity.html");
+	$("#depressive-disorder-symptoms").load("/illnesses/symptoms/depressive_disorder.html");
 	$("#dissociative-identity-symptoms").load("/illnesses/symptoms/dissociative_identity.html");
 	$("#misophonia-symptoms").load("/illnesses/symptoms/misophonia.html");
 	$("#ocd-symptoms").load("/illnesses/symptoms/ocd.html");
@@ -60,7 +60,7 @@ $(function(){
 	$("#borderline-personality-treatments").load("/illnesses/treatments/borderline_personality.html");
 	$("#bulimia-treatments").load("/illnesses/treatments/bulimia.html");
 	$("#dementia-treatments").load("/illnesses/treatments/dementia.html");
-	$("#depressive-disorder-treatments").load("/illnesses/treatments/depressive_identity.html");
+	$("#depressive-disorder-treatments").load("/illnesses/treatments/depressive_disorder.html");
 	$("#dissociative-identity-treatments").load("/illnesses/treatments/dissociative_identity.html");
 	$("#misophonia-treatments").load("/illnesses/treatments/misophonia.html");
 	$("#ocd-treatments").load("/illnesses/treatments/ocd.html");
@@ -78,7 +78,7 @@ $(function(){
 	$("#borderline-personality-therapies").load("/illnesses/treatments/therapies/borderline_personality.html");
 	$("#bulimia-therapies").load("/illnesses/treatments/therapies/bulimia.html");
 	$("#dementia-therapies").load("/illnesses/treatments/therapies/dementia.html");
-	$("#depressive-disorder-therapies").load("/illnesses/treatments/therapies/depressive_identity.html");
+	$("#depressive-disorder-therapies").load("/illnesses/treatments/therapies/depressive_disorder.html");
 	$("#dissociative-identity-therapies").load("/illnesses/treatments/therapies/dissociative_identity.html");
 	$("#misophonia-therapies").load("/illnesses/treatments/therapies/misophonia.html");
 	$("#ocd-therapies").load("/illnesses/treatments/therapies/ocd.html");
@@ -96,7 +96,7 @@ $(function(){
 	$("#borderline-personality-medications").load("/illnesses/treatments/medications/borderline_personality.html");
 	$("#bulimia-medications").load("/illnesses/treatments/medications/bulimia.html");
 	$("#dementia-medications").load("/illnesses/treatments/medications/dementia.html");
-	$("#depressive-disorder-medications").load("/illnesses/treatments/medications/depressive_identity.html");
+	$("#depressive-disorder-medications").load("/illnesses/treatments/medications/depressive_disorder.html");
 	$("#dissociative-identity-medications").load("/illnesses/treatments/medications/dissociative_identity.html");
 	$("#misophonia-medications").load("/illnesses/treatments/medications/misophonia.html");
 	$("#ocd-medications").load("/illnesses/treatments/medications/ocd.html");
@@ -114,7 +114,7 @@ $(function(){
 	$("#borderline-personality-specialists").load("/illnesses/treatments/specialists/borderline_personality.html");
 	$("#bulimia-specialists").load("/illnesses/treatments/specialists/bulimia.html");
 	$("#dementia-specialists").load("/illnesses/treatments/specialists/dementia.html");
-	$("#depressive-disorder-specialists").load("/illnesses/treatments/specialists/depressive_identity.html");
+	$("#depressive-disorder-specialists").load("/illnesses/treatments/specialists/depressive_disorder.html");
 	$("#dissociative-identity-specialists").load("/illnesses/treatments/specialists/dissociative_identity.html");
 	$("#misophonia-specialists").load("/illnesses/treatments/specialists/misophonia.html");
 	$("#ocd-specialists").load("/illnesses/treatments/specialists/ocd.html");
