@@ -65,6 +65,7 @@ li {
 .nav-pills > li.active > a:focus {
   background-color: #C0D9AF;
   color: #000080;
+  border-radius: 8px 8px 0px 0px;
 }
 
 #exTab1 .nav-pills > li > a {
