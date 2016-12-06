@@ -32,7 +32,7 @@ body {
 }
 body {
   color: #000;
-  text-align: center;
+  /*text-align: center;*/
   /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
 }
 
@@ -52,13 +52,13 @@ th {
   text-align: center;
 }
 
-div {
+/*div {
   max-width: 750px;
-}
+}*/
 
-li {
+/*li {
   text-align: left;
-}
+}*/
 
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
