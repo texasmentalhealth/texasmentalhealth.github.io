@@ -52,13 +52,13 @@ th {
   text-align: center;
 }
 
-/*div {
+div {
   max-width: 750px;
-}*/
+}
 
-/*li {
+li {
   text-align: left;
-}*/
+}
 
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
@@ -158,6 +158,7 @@ img {
 
 /* Padding for spacing */
 .inner {
+  text-align: center;
   padding: 30px;
 }
 
